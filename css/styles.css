@@ -63,6 +63,11 @@ body {
   margin-left: 5px;
 }
 
+#get-started:hover {
+  background: rgba(105, 187, 183, .8);
+  text-decoration: none;
+}
+
 .intro {
   background: url("../images/ironyard-background.jpg") no-repeat center;
   background-size: cover;
@@ -92,6 +97,68 @@ body {
   border-radius: 4px;
 }
 
+.intro a:hover{
+  background: rgba(105, 187, 183, .9);
+  text-decoration: none;
+}
+
 .intro i {
   font-size: 4rem;
+}
+
+.news {
+  background: #EEEEEE;
+  padding: 0 3%;
+  text-align: center;
+}
+
+.news img {
+  height: 90px;
+}
+
+.courses {
+  padding: 5%;
+}
+
+.courses h3 {
+  color: #717D83;
+  font-size: 2.2rem;
+  font-style: italic;
+  font-weight: bolder;
+  line-height: 1.5;
+}
+
+.course p {
+  font-size: 1.8rem;
+  color: #38474D;
+  line-height: 1.8;
+}
+
+form {
+  background: #EBEBEB;
+  padding: 8% 6% 10%;
+  border-radius: 10px;
+}
+
+.send-me h6 {
+  color: #38474D;
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+
+.send-me p {
+  font-size: 1.4rem;
+  font-weight: lighter;
+  line-height: 2;
+}
+
+  button {
+  background: #69BBB7;
+  width: 100%;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  margin-top: 2%;
+  padding: 10px 0;
+  font-size: 1.8rem;
 }
