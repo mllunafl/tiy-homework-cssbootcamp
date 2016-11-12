@@ -162,3 +162,132 @@ form {
   padding: 10px 0;
   font-size: 1.8rem;
 }
+
+.discover {
+  background: #EEEEEE;
+  text-align: center;
+  padding: 2% 0 6%;
+}
+
+.discover h2 {
+  color: #808D92;
+  font-size: 3rem;
+  font-weight: bold;
+  line-height: 2;
+}
+
+.discover p {
+  font-size: 1.9rem;
+  line-height: 1.5;
+}
+
+.discover-courses {
+  margin-top: 2%;
+}
+
+.discover-courses h3 {
+  text-transform: uppercase;
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+
+.front-course h3 {
+  color: #D1823E;
+}
+
+.back-course h3 {
+  color: #BB574F;
+}
+
+.mobile-course h3 {
+  color: #D4B349;
+}
+
+.ui-course h3 {
+  color: #26A1AB;
+}
+
+.stories {
+  padding: 4%;
+  color: #828F94;
+}
+
+.main-story h3 {
+  font-size: 2.2rem;
+  text-transform: uppercase;
+  /*font-weight: bold;*/
+}
+
+.main-story p {
+  font-size: 2.4rem;
+  font-weight: bold;
+  padding: 8% 0 4%;
+}
+
+.main-story h4 {
+  display: inline;
+  font-weight: bold;
+}
+
+.main-story h5 {
+  display: inline;
+  font-size: 1.7rem;
+}
+
+.main-story .stories-button {
+  color: #FFFFFF;
+  background: #69BBB7;
+  text-align: center;
+  font-size: 1.8rem;
+  width: 60%;
+  padding: 3% 4%;
+  border-radius: 4px;
+  margin: 6% 0;
+}
+
+.student {
+  text-align: center;
+}
+
+.student img {
+  height: 100px;
+  border-radius: 50%;
+  border: 4px solid #DE802F;
+  text-align: right;
+}
+
+.student p {
+  padding: 8% 0 2%;
+  font-size: 1.8rem;
+  text-align: left;
+  font-weight: lighter;
+}
+
+.student h3 {
+  color: #69BBB7;
+  font-size: 2.2rem;
+  font-weight: bold;
+}
+
+.student h4 {
+  font-size: 2rem;
+  font-weight: lighter;
+}
+
+.employers {
+  background: url("../images/employers-image.jpg") no-repeat center;
+  color: #FBFBFB;
+  text-align: center;
+  padding: 4% 20%;
+}
+
+.employers h2 {
+  font-size: 3.4rem;
+  font-weight: bold;
+  padding-bottom: 3%
+}
+
+.employers p {
+  font-size: 1.8rem;
+  line-height: 2;
+}
