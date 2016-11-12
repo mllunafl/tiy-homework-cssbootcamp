@@ -276,9 +276,10 @@ form {
 
 .employers {
   background: url("../images/employers-image.jpg") no-repeat center;
+  background-size: cover;
   color: #FBFBFB;
   text-align: center;
-  padding: 4% 20%;
+  padding: 4% 12%;
 }
 
 .employers h2 {
@@ -290,4 +291,8 @@ form {
 .employers p {
   font-size: 1.8rem;
   line-height: 2;
+}
+
+.employers img {
+  height: 100px;
 }
