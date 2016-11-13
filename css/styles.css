@@ -296,3 +296,102 @@ form {
 .employers img {
   height: 100px;
 }
+
+.employer {
+  margin: 16% 0 8%;
+}
+
+.employer a {
+  background: #69BBB7;
+  color: white;
+  font-size: 1.8rem;
+  padding: 2% 8%;
+  border-radius: 5px;
+}
+
+.employers a:hover {
+  background: rgba(105, 187, 183, .8);
+  text-decoration: none;
+}
+
+.questions {
+  padding: 4% 4%;
+}
+
+.questions h4 {
+  color: #828F94;
+  font-size: 2.4rem;
+  text-transform: uppercase;
+}
+
+.questions h3 {
+  color: #828F94;
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.questions p {
+  color: #3C4B50;
+  font-size: 1.8rem;
+  line-height: 1.8;
+  padding-top: 2%;
+}
+
+.questions h6 {
+  color: #38474D;
+  font-weight: bold;
+  font-size: 1.8rem;
+}
+
+.question {
+  padding: 6% 10%;
+}
+
+.question p {
+  font-size: 1.5rem;
+  line-height: 1.6;
+  font-weight: lighter;
+}
+
+.footer {
+  background: #38474D;
+  color: white;
+  padding: 2% 4%;
+}
+
+.footer ul {
+  list-style: none;
+  padding: 0%;
+}
+
+.footer-about h5{
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.footer-about a {
+  color: #9BA7AB;
+  font-size: 1.4rem;
+  line-height: 2;
+  font-weight: lighter;
+}
+
+.footer-link a {
+  color: white;
+  text-transform: uppercase;
+  line-height: 2;
+}
+
+.footer-logo {
+  text-align: right;
+}
+
+.footer-logo p {
+  font-size: 1.1rem;
+  color: #B5B7BD;
+  letter-spacing: 1px;
+}
+
+.footer-logo a {
+  color: #B5B7BD;
+}
