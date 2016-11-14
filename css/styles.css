@@ -142,6 +142,30 @@ form {
   border-radius: 10px;
 }
 
+input {
+  padding: 4% 2%;
+  margin-top: 4%;
+}
+
+#first, #first-two, #first-three {
+  display: inline;
+  width: 48%;
+}
+
+#last, #last-two, #last-three {
+  display: inline;
+  width: 48%;
+  margin-left: 2%;
+}
+
+#email, #email-two {
+  width: 100%;
+}
+
+#number, #number-two {
+  width: 100%
+}
+
 .send-me h6 {
   color: #38474D;
   font-size: 1.4rem;
@@ -353,6 +377,14 @@ form {
   font-size: 1.5rem;
   line-height: 1.6;
   font-weight: lighter;
+}
+
+.name-call {
+  padding-top: 10%;
+}
+
+.name-email {
+  padding-top: 20%;
 }
 
 .footer {
